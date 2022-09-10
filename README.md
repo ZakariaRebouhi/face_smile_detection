@@ -3,7 +3,7 @@
 
 A simple project of integration ML Kit Firebase -intelligent vision- with Mobile Flutter app  
 
-[<img src="https://github.com/ZakariaRebouhi/face_smile_detection/blob/main/yt_gaming_full_rgb_white.max-2800x2800.png?raw=true width="200"" >](https://www.youtube.com/shorts/p7FKVBLNIP0 "face smile detection")
+[<img src="https://github.com/ZakariaRebouhi/face_smile_detection/blob/main/yt_gaming_full_rgb_white.max-2800x2800.png?raw=true "width="200" >](https://www.youtube.com/shorts/p7FKVBLNIP0 "face smile detection")
 
 ## Getting Started
 
