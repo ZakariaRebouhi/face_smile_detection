@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Dev\Flutter\summer projects\face smile detection\face_smile_detection\build\windows\CMakeFiles\2fa95d4528d2a48c2b1e9cbb26ea0090\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{462C2A3D-3D81-3A78-92BA-CC0DC16F48B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Dev\Flutter\summer projects\face smile detection\face_smile_detection\build\windows\CMakeFiles\1bb982a881097c1d533de7d420f3ec18\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Dev\Flutter\summer projects\face smile detection\face_smile_detection\build\windows\CMakeFiles\722da57c36c20383d6ce6d9af20fd9d4\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Dev\Flutter\summer projects\face smile detection\face_smile_detection\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Dev\Flutter\summer projects\face smile detection\face_smile_detection\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{462C2A3D-3D81-3A78-92BA-CC0DC16F48B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

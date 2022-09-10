@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143776193030",
+    "project_id": "face-smile-detection-b2896",
+    "storage_bucket": "face-smile-detection-b2896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143776193030:android:ae672fd8e1a05546738187",
+        "android_client_info": {
+          "package_name": "com.zakariarebouhi.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143776193030-iqplocdgh5oqqkvcouf4nbcp252jtj39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zakariarebouhi.facedetection",
+            "certificate_hash": "90a6ed0211133d3ed6ee2ba2aef876c31bc431e3"
+          }
+        },
+        {
+          "client_id": "143776193030-7dj865sufnfje7kft765rai4jgco5vtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9PWnhXhf6s0ySf32Gx3YK6U-nFJVjWsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143776193030-7dj865sufnfje7kft765rai4jgco5vtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
