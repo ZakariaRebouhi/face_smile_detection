@@ -1,6 +1,9 @@
-# face_smile_detection
+# face smile detection
 
-A new Flutter project.
+A simple project of integration ML Kit Firebase -intelligent vision- with Mobile Flutter app  
+
+
+
 
 ## Getting Started
 
