@@ -1,3 +1,4 @@
+![alt text](https://github.com/ZakariaRebouhi/face_smile_detection/blob/main/smaile%20detection%20mockup.png?raw=true)
 # face smile detection
 
 A simple project of integration ML Kit Firebase -intelligent vision- with Mobile Flutter app  
