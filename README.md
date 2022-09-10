@@ -3,6 +3,7 @@
 
 A simple project of integration ML Kit Firebase -intelligent vision- with Mobile Flutter app  
 
+![alt text](https://github.com/ZakariaRebouhi/face_smile_detection/blob/main/Screen_Recording%20app.mp4?raw=true)
 
 
 
